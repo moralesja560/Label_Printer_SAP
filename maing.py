@@ -47,11 +47,6 @@ import pyads
 			El problema era el sistema de Quick Edit de la consola, si le das click, se pausa.
 		16.- Reduce la cantidad de mensajes que marca 
 		17.- borra una vez al mes la carpeta de fotos.
-		
-
-
-
-		
 
 """
 
